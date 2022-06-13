@@ -18,7 +18,7 @@
 ![network](https://user-images.githubusercontent.com/101712711/173388419-2981578d-7157-42e9-a6b3-1ebe67f44d9c.png)
 
 
-* The destination of tunnel tools, including dnstt, tcp-over-dns, and tuns is a suspicious DNS server.
+* The destination of all tunnel tools is a suspicious DNS server.
 
 * The dnstt directly connects to a DoH server because it supports a DoH protocol.
 
