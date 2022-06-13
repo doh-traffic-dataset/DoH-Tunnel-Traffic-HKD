@@ -17,8 +17,7 @@
 
 # Network connections and capturing point
 
-<!--![network-img](https://user-images.githubusercontent.com/56641139/173093275-49938377-e195-4765-837f-1603b6e0109e.png)-->
-![network](https://user-images.githubusercontent.com/56641139/173059783-352e31ba-d7de-48fc-aff8-339e5e23b57e.png)
+![network](https://user-images.githubusercontent.com/101712711/173388419-2981578d-7157-42e9-a6b3-1ebe67f44d9c.png)
 
 
 * The destination of tunnel tools, including dnstt, tcp-over-dns, and tuns is a suspicious DNS server.
