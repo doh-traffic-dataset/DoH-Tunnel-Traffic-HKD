@@ -6,12 +6,12 @@
 
 * "Total-48h-Augmentation.csv" has traffic flows consisting of dnstt 46080, tcp-over-dns 30040, tuns 29040.
 
-<!--* If your papers use the dataset or the script-tools for the dataset, please cite the following paper.-->
+* If your papers use the dataset, please cite the following paper.
 
-<!--* Rikima Mitsuhashi, Yong Jin, Katsuyoshi Iida, Takahiro Shinagawa, and Yoshiaki Takai, <br>-->
-<!--"Malicious DNS Tunnel Tool Recognition using Persistent DoH Traffic Analysis,"<br>-->
-<!-- *2022 IEEE Transaction on Network Service and Management, 2022.* -->
-
+* Rikima Mitsuhashi, Yong Jin, Katsuyoshi Iida, Takahiro Shinagawa, and Yoshiaki Takai, <br>
+"Malicious DNS Tunnel Tool Recognition Using Persistent DoH Traffic Analysis,"<br>
+in IEEE Transactions on Network and Service Management, 2022.<br>
+https://ieeexplore.ieee.org/document/9924534 (Early Access)
 
 # Network connections and capturing point
 
