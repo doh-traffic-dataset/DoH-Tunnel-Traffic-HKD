@@ -4,8 +4,8 @@
 
 * The dataset also contains CSV files (DoH-CSVs.zip) of statistical traffic features extracted from PCAP files by DoHlyzer [4].
 
-* "Total-48h-Augmentation.csv" includes traffic flows of dnstt 46080, tcp-over-dns 30040, tuns 29040, augmented assuming 20 client PCs.
-* 
+* The "Total-48h-Augmentation.csv" includes traffic flows of dnstt 46080, tcp-over-dns 30040, tuns 29040, augmented assuming 20 client PCs.
+
 * If your papers use the dataset, please cite the following paper.
 
 * Rikima Mitsuhashi, Yong Jin, Katsuyoshi Iida, Takahiro Shinagawa, and Yoshiaki Takai, 
@@ -28,18 +28,18 @@ https://ieeexplore.ieee.org/document/9924534 (Early Access)
 
 # Appendix
 
-* "DoH-Combined-CSVs.zip" is the CIRA-CIC-DOHBRW-2020 and DOH-TUNNEL-TRAFFIC-HKD combined dataset.
+* The "DoH-Combined-CSVs.zip" is the CIRA-CIC-DOHBRW-2020 and DOH-TUNNEL-TRAFFIC-HKD combined dataset.
 
 * The dataset has three CSV files: l1-total-add.csv, l2-total-add.csv, and l3-total-add.csv.
 
 * The CSV files contain data from the "CIRA-CIC-DoHBrw-2020" and "DoH-Tunnel-Traffic-HKD" datasets. 
 * If you use the files, please be sure to cite previous studies for both datasets in your paper.
-    1.  https://ieeexplore.ieee.org/document/9251211 (CIRA-CIC-DoHBrw-2020)   
-    2.  https://ieeexplore.ieee.org/document/9924534 (DoH-Tunnel-Traffic-HKD)
+**  https://ieeexplore.ieee.org/document/9251211 (CIRA-CIC-DoHBrw-2020)   
+**  https://ieeexplore.ieee.org/document/9924534 (DoH-Tunnel-Traffic-HKD)
 
 * More information for each dataset can be found on the following websites. 
-    https://www.unb.ca/cic/datasets/dohbrw-2020.html
-    https://github.com/doh-trafficdataset/DoH-Tunnel-Traffic-HKD
+    1. https://www.unb.ca/cic/datasets/dohbrw-2020.html
+    2. https://github.com/doh-trafficdataset/DoH-Tunnel-Traffic-HKD
 
 * Also, note that "l1-total-add.csv" is currently too large to open in Microsoft Excel.
   Use a text editor such as Vim to view its contents.
