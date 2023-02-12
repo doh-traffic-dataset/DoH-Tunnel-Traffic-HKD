@@ -37,7 +37,7 @@ https://ieeexplore.ieee.org/document/9924534 (Early Access)
     1. https://ieeexplore.ieee.org/document/9251211 (CIRA-CIC-DoHBrw-2020)   
     2. https://ieeexplore.ieee.org/document/9924534 (DoH-Tunnel-Traffic-HKD)
 
-* More information for the CIRA-CIC-DoHBrw-2020 dataset can be found on the website - https://www.unb.ca/cic/datasets/dohbrw-2020.html. 
+* More information on the CIRA-CIC-DoHBrw-2020 dataset is available on the website - https://www.unb.ca/cic/datasets/dohbrw-2020.html.
 
 * Also, note that "l1-total-add.csv" is currently too large to open in Microsoft Excel.
   Use a text editor such as Vim to view its contents.
