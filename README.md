@@ -39,7 +39,7 @@ https://ieeexplore.ieee.org/document/9924534 (Early Access)
 
 * More information for the CIRA-CIC-DoHBrw-2020 dataset can be found on the website - https://www.unb.ca/cic/datasets/dohbrw-2020.html. 
 
-* Note that "l1-total-add.csv" is currently too large to open in Microsoft Excel.
+* Also, note that "l1-total-add.csv" is currently too large to open in Microsoft Excel.
   Use a text editor such as Vim to view its contents.
 
 # References
