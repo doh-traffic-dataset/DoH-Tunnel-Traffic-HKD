@@ -32,6 +32,8 @@ https://ieeexplore.ieee.org/document/9924534 (Early Access)
 
 * The dataset has three CSV files: l1-total-add.csv, l2-total-add.csv, and l3-total-add.csv.
 
+* The CSV files includes traffic flows of Non-DoH 897493, Normal DoH 19807, dns2tcp 167486, dnscat2 35770, iodine 46580, dnstt 46080, tcp-over-dns 30040, and tuns 29040.
+
 * The CSV files contain data from the "CIRA-CIC-DoHBrw-2020" and "DoH-Tunnel-Traffic-HKD" datasets. 
 * If you use the files, please be sure to cite previous studies for both datasets in your paper.
     1. https://ieeexplore.ieee.org/document/9251211 (CIRA-CIC-DoHBrw-2020)   
