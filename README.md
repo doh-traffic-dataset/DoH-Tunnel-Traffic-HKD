@@ -13,8 +13,6 @@
 *in IEEE Transactions on Network and Service Management*, 2022.<br>
 https://ieeexplore.ieee.org/document/9924534 (Early Access)
 
-* Please contact the authors, if you need to obtain CSV files of the CIRA-CIC-DOHBRW-2020 and DOH-TUNNEL-TRAFFIC-HKD combined dataset.
-
 # Network connections and capturing point
 
 ![network](https://user-images.githubusercontent.com/101712711/173388419-2981578d-7157-42e9-a6b3-1ebe67f44d9c.png)
