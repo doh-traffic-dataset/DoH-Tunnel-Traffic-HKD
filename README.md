@@ -34,7 +34,7 @@ https://ieeexplore.ieee.org/document/9924534 (Early Access)
     1. https://ieeexplore.ieee.org/document/9251211 (CIRA-CIC-DoHBrw-2020 [5])  
     2. https://ieeexplore.ieee.org/document/9924534 (DoH-Tunnel-Traffic-HKD)
 
-* Note that the "l1-total-add.csv" in the zip file is currently too large to open in Microsoft Excel.
+* Note that the "l1-total-add.csv" is currently too large to open in Microsoft Excel.
   Use a text editor such as Vim to view its contents.
 
 # References
