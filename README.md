@@ -33,5 +33,5 @@
 # References
 * [1] dnstt</t>  (https://www.bamsoftware.com/software/dnstt/)
 * [2] tcp-over-dns</t> (https://analogbit.com/software/tcp-over-dns/)
-* [3] tuns</t> (https://github.com/lnussbaum/tuns, and https://www.loria.fr/~lnussbau/tuns.html)
+* [3] tuns</t> (https://github.com/lnussbaum/tuns/) and (https://www.loria.fr/~lnussbau/tuns.html)
 * [4] DoHlyzer</t> (https://github.com/ahlashkari/DoHlyzer/)
