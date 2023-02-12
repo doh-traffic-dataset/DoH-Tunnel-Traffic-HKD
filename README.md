@@ -30,15 +30,13 @@ https://ieeexplore.ieee.org/document/9924534 (Early Access)
 
 * The dataset contains traffic flows of Non-DoH 897493, DoH 374803, Normal DoH 19807, Suspicious DoH 354996, dns2tcp 167486, dnscat2 35770, iodine 46580, dnstt 46080, tcp-over-dns 30040, and tuns 29040.
 
-* The dataset also includes three CSV files: l1-total-add.csv, l2-total-add.csv, and l3-total-add.csv.
-
 * The CSV files have data from the "CIRA-CIC-DoHBrw-2020" and "DoH-Tunnel-Traffic-HKD" datasets.
  
 * If you use the files, please be sure to cite both studies for the datasets in your paper.
     1. https://ieeexplore.ieee.org/document/9251211 (CIRA-CIC-DoHBrw-2020[5])   
     2. https://ieeexplore.ieee.org/document/9924534 (DoH-Tunnel-Traffic-HKD)
 
-* Note that "l1-total-add.csv" is currently too large to open in Microsoft Excel.
+* Note that the "l1-total-add.csv" in the DoH-Combined-CSVs.zip is currently too large to open in Microsoft Excel.
   Use a text editor such as Vim to view its contents.
 
 # References
