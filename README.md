@@ -34,10 +34,8 @@ https://ieeexplore.ieee.org/document/9924534 (Early Access)
 
 * The CSV files have data from the "CIRA-CIC-DoHBrw-2020" and "DoH-Tunnel-Traffic-HKD" datasets. 
 * If you use the files, please be sure to cite previous studies for both datasets in your paper.
-    1. https://ieeexplore.ieee.org/document/9251211 (CIRA-CIC-DoHBrw-2020)   
+    1. https://ieeexplore.ieee.org/document/9251211 (CIRA-CIC-DoHBrw-2020[5])   
     2. https://ieeexplore.ieee.org/document/9924534 (DoH-Tunnel-Traffic-HKD)
-
-* More information on the CIRA-CIC-DoHBrw-2020 dataset is available on the website - https://www.unb.ca/cic/datasets/dohbrw-2020.html.
 
 * Note that "l1-total-add.csv" is currently too large to open in Microsoft Excel.
   Use a text editor such as Vim to view its contents.
@@ -47,3 +45,4 @@ https://ieeexplore.ieee.org/document/9924534 (Early Access)
 * [2] tcp-over-dns</t> (https://analogbit.com/software/tcp-over-dns/)
 * [3] tuns</t> (https://github.com/lnussbaum/tuns, and https://www.loria.fr/~lnussbau/tuns.html)
 * [4] DoHlyzer</t> (https://github.com/ahlashkari/DoHlyzer)
+* [5] CIRA-CIC-DoHBrw-2020</t> (https://www.unb.ca/cic/datasets/dohbrw-2020.html)
