@@ -30,7 +30,7 @@ https://ieeexplore.ieee.org/document/9924534 (Early Access)
 
 * The "DoH-Combined-CSVs.zip" is the CIRA-CIC-DOHBRW-2020 and DOH-TUNNEL-TRAFFIC-HKD combined dataset.
 
-* The dataset includes traffic flows of Non-DoH 897493, Normal DoH 19807, dns2tcp 167486, dnscat2 35770, iodine 46580, dnstt 46080, tcp-over-dns 30040, and tuns 29040.
+* The dataset includes traffic flows of Non-DoH 897493, DoH 374803, Normal DoH 19807, Suspicious DoH 354996, dns2tcp 167486, dnscat2 35770, iodine 46580, dnstt 46080, tcp-over-dns 30040, and tuns 29040.
 
 * The dataset has three CSV files: l1-total-add.csv, l2-total-add.csv, and l3-total-add.csv.
 
