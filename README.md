@@ -32,8 +32,9 @@ https://ieeexplore.ieee.org/document/9924534 (Early Access)
 
 * The dataset also includes three CSV files: l1-total-add.csv, l2-total-add.csv, and l3-total-add.csv.
 
-* The CSV files have data from the "CIRA-CIC-DoHBrw-2020" and "DoH-Tunnel-Traffic-HKD" datasets. 
-* If you use the files, please be sure to cite previous studies for both datasets in your paper.
+* The CSV files have data from the "CIRA-CIC-DoHBrw-2020" and "DoH-Tunnel-Traffic-HKD" datasets.
+ 
+* If you use the files, please be sure to cite both studies for the datasets in your paper.
     1. https://ieeexplore.ieee.org/document/9251211 (CIRA-CIC-DoHBrw-2020[5])   
     2. https://ieeexplore.ieee.org/document/9924534 (DoH-Tunnel-Traffic-HKD)
 
