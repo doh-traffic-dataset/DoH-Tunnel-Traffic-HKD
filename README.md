@@ -28,18 +28,10 @@
 
 # Appendix
 
-* The CIRA-CIC-DoHBrw-2020 and DoH-Tunnel-Traffic-HKD combined dataset (CIRA-CIC-DoHBrw-2020-and-DoH-Tunnel-Traffic-HKD.zip) is available on the Hokkaido University website - https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/88092.
-
-* If you use the dataset, please be sure to cite the following papers because the dataset has data from the CIRA-CIC-DoHBrw-2020 [5] and DoH-Tunnel-Traffic-HKD datasets.
-
-* Mohammadreza MontazeriShatoori, Logan Davidson, Gurdip Kaur, and Arash Habibi Lashkari, "Detection of DoH Tunnels using Time-series Classification of Encrypted Traffic," *The 5th IEEE Cyber Science and Technology Congress, Calgary, Canada, August 2020*. https://ieeexplore.ieee.org/document/9251211
-
-* Rikima Mitsuhashi, Yong Jin, Katsuyoshi Iida, Takahiro Shinagawa, and Yoshiaki Takai, "Malicious DNS Tunnel Tool Recognition using Persistent DoH Traffic Analysis," *in IEEE Transactions on Network and Service Management, 2022*. https://ieeexplore.ieee.org/document/9924534
-
+* The CIRA-CIC-DoHBrw-2020 and DoH-Tunnel-Traffic-HKD combined dataset is available on the website - https://github.com/doh-traffic-dataset/CIRA-CIC-DoHBrw-2020-and-DoH-Tunnel-Traffic-HKD.
 
 # References
 * [1] dnstt</t>  (https://www.bamsoftware.com/software/dnstt/)
 * [2] tcp-over-dns</t> (https://analogbit.com/software/tcp-over-dns/)
 * [3] tuns</t> (https://github.com/lnussbaum/tuns/) and (https://www.loria.fr/~lnussbau/tuns.html)
 * [4] DoHlyzer</t> (https://github.com/ahlashkari/DoHlyzer/)
-* [5] CIRA-CIC-DoHBrw-2020 (https://www.unb.ca/cic/datasets/dohbrw-2020.html)
