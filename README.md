@@ -28,7 +28,7 @@
 
 # Appendix
 
-* The CIRA-CIC-DoHBrw-2020 and DoH-Tunnel-Traffic-HKD combined dataset is available on the website - https://github.com/doh-traffic-dataset/CIRA-CIC-DoHBrw-2020-and-DoH-Tunnel-Traffic-HKD.
+* The CIRA-CIC-DoHBrw-2020 and DoH-Tunnel-Traffic-HKD combined dataset is available on the website - https://github.com/doh-traffic-dataset/CIRA-CIC-DoHBrw-2020-and-DoH-Tunnel-Traffic-HKD/.
 
 # References
 * [1] dnstt</t>  (https://www.bamsoftware.com/software/dnstt/)
