@@ -30,6 +30,8 @@
 
 * The CIRA-CIC-DoHBrw-2020 and DoH-Tunnel-Traffic-HKD combined dataset is available on the website - https://github.com/doh-traffic-dataset/CIRA-CIC-DoHBrw-2020-and-DoH-Tunnel-Traffic-HKD/.
 
+* The DoH-DGA-Malware-Traffic-HKD dataset is available on the following website - https://github.com/rikima-mitsuhashi/DoH-DGA-Malware-Traffic-HKD/.
+
 # References
 * [1] dnstt</t>  (https://www.bamsoftware.com/software/dnstt/)
 * [2] tcp-over-dns</t> (https://analogbit.com/software/tcp-over-dns/)
