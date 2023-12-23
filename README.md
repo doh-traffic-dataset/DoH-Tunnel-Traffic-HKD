@@ -1,4 +1,4 @@
-# The DoH-Tunnel-Traffic-HKD dataset
+# DoH-Tunnel-Traffic-HKD dataset
 
 * The dataset (DoH-Tunnel-Traffic-HKD.zip) is available on the Hokkaido University website - https://eprints.lib.hokudai.ac.jp/dspace/handle/2115/88092.
 
